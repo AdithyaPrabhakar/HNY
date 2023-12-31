@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e7b4b4;
+}
+
+header {
+    background-color: #a88959;
+    color: #663333;
+    text-align: center;
+    padding: 1em;
+}
+
+.container {
+    max-width: 800px;
+    margin: 2em auto;
+    background-color: #9a7ceb;
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(158, 54, 255, 0.993);
+}
+
+.popup-container-header {
+    position: relative;
+    text-align: left;
+}
+
+.content {
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #a88959;
+    color: #494949;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
